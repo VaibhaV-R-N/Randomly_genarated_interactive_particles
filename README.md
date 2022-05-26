@@ -1,1 +1,1 @@
-# Randomly_genarated_interactive_particles
+# Randomly_generated_interactive_particles
